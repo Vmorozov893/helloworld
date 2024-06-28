@@ -6,6 +6,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Привет мир!!!");
         System.out.println("Hello world!!!");
-        System.out.println("Примите домашку, пожалуйста.");
+        System.out.println("Примите домашку. Пожалуйста.)))");
     }
 }
